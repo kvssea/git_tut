@@ -1,1 +1,3 @@
 # git_tut
+
+A repository for demoing git features...
